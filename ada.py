@@ -7,5 +7,4 @@ def ada():
     print(full.upper())
     print("   ",full.lower())
 
-ada()
 
