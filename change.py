@@ -11,3 +11,4 @@ def change():
     print("Centavos:")
     print(vuelto % 100)
 
+change()
