@@ -6,5 +6,6 @@ def ada():
     print(full.title())
     print(full.upper())
     print("   ",full.lower())
+
 ada()
 
